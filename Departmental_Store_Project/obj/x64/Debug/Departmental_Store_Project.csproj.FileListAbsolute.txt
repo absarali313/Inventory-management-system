@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\bin\x64\Debug\Departmental_Store_Project.exe.config
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\bin\x64\Debug\Departmental_Store_Project.exe
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\bin\x64\Debug\Departmental_Store_Project.pdb
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\bin\x64\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.Forms.loginForm.resources
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.Forms.productForm.resources
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.Main.resources
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.Properties.Resources.resources
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.csproj.CopyComplete
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.exe
+C:\Users\Hp\source\repos\Departmental_Store_Project\Departmental_Store_Project\obj\x64\Debug\Departmental_Store_Project.pdb
